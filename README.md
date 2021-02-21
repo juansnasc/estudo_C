@@ -9,3 +9,9 @@ Repositório composto de testes, exercícios e projetos utilizando tecnologias v
 
 ## Pequenos Sistemas
 [Agenda](agenda_beta.c)
+[Acervo de Biblioteca](cadastroObrasBiblioteca.c)
+
+
+##Desafios
+[Código de César](codigodecesar.c)
+
