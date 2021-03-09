@@ -3,7 +3,7 @@ Repositório composto de testes, exercícios e projetos utilizando tecnologias v
 
 ## Jogos
 [Dois ou Um("Zerinho ou um")](jogoDoisOuUm.c)
-
+[Jogo da Velha](jogoDaVelha.c)
 
 
 ## Pequenos Sistemas
