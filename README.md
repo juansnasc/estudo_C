@@ -15,4 +15,5 @@ Repositório composto de testes, exercícios e projetos utilizando tecnologias v
 
 ## Desafios
 [Código de César](codigodecesar.c)
+[Verificador de Número Primo](achaNumeroPrimo.c)
 
