@@ -18,17 +18,17 @@ Repositório composto de testes, exercícios e projetos utilizando a linguagem d
 
 [Verificador de Número Primo](achaNumeroPrimo.c)
 
-[Dado um vetor de inteiros, exibir na tela o mesmo, sem valores repetidos](exibeVetorIntSemValoresRepetidos.c)
-
 [Após obtidas duas strings, verificar se a string2 é substring da primeira](segStrgSubsPrimeira.c)
+
+[Dado um vetor de inteiros, exibir na tela o mesmo, sem valores repetidos](exibeVetorIntSemValoresRepetidos.c)
 
 [Dada uma string, verificar, contar e exibir na tela a quantidade de vezes que aparece cada caractere](contaOcorrenciaCadaLetra.c)
 
 [Dado um vetor de inteiros, verificar qual o maior valor presente e quantas ocorrências do mesmo existem](maiorValVetEQtdOcorrencias.c)
 
-[Dado um array de inteiros e um valor N,recebido do usuario,imprimir o vetor inteiro contendo K elementos por linha](arrayTamNImprimeKaKValsPorLinha.c)
-
 [Dados dois valores, A e B, pelo usuarios e um vetor, retornar a soma dos valores inteiros compreendidos entre A e B](returnSomNValsEntreAeB-ok.c)
+
+[Dado um array de inteiros e um valor N,recebido do usuario,imprimir o vetor inteiro contendo K elementos por linha](arrayTamNImprimeKaKValsPorLinha.c)
 
 
 ## Jogos
