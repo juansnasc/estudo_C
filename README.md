@@ -13,6 +13,15 @@ Repositório composto de testes, exercícios e projetos utilizando a linguagem d
 [Função que recebe um número real por parâmetro e retorna-o com suas partes inteira e fracionária separadas](valReturnPartesInteFrac.c)
 
 ## Estruturas de Dados
+[Fila Estática usando variável global](filaEstaticaGlobal.c)
+
+[Fila Estática usando passagem por parâmetro](filaEstaticaPassParametro.c)
+
+[Pilha Estática usando variável global](pilhaEstaticaGlobal.c)
+
+[Pilha Estática usando passagem por parâmetro](pilhaEstaticaPassParametro.c)
+
+[Caso real:Pilha Estática servindo como pilha de devolução no sistema de uma biblioteca](pilhaDevolucaoBiblioteca.c)
 
 
 ## Desafios
