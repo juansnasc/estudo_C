@@ -12,6 +12,8 @@ Repositório composto de testes, exercícios e projetos utilizando a linguagem d
 
 [Função que recebe um número real por parâmetro e retorna-o com suas partes inteira e fracionária separadas](valReturnPartesInteFrac.c)
 
+## Estruturas de Dados
+
 
 ## Desafios
 [Código de César](codigodecesar.c)
